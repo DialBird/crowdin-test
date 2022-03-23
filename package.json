@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@crowdin/cli": "3"
+  },
+  "scripts": {
+    "crowdin": "crowdin"
+  }
+}
